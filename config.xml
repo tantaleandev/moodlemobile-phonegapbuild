@@ -5,10 +5,10 @@
         id        = "com.vhd.moodlemobile"
         versionCode = "20170"
         version   = "3.2.1">
-    <name>VHD Mobile</name>
+    <name>Colegio VHD</name>
 
     <description>
-        VHD Mobile official app
+       Colegio VHD official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
